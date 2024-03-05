@@ -1,4 +1,7 @@
-https://cdn.theforage.com/vinternships/companyassets/tMjbs76F526fF5v3G/L3MQ8f6cYSkfoukmz/1666886930204/British_Airways_Logo.svg.png
+# British Airways Data Science Virtual Program
+A repository containing all the assignments completed during my participation in the British Airways Data Science Virtual Program : Empowering Business with Effective Insights Project on Forage
+![British Airways]([https://user-images.githubusercontent.com/27211670/190601774-db1cbc4d-0daa-4853-a890-ebc6c15895ab.jpg](https://cdn.theforage.com/vinternships/companyassets/tMjbs76F526fF5v3G/L3MQ8f6cYSkfoukmz/1666886930204/British_Airways_Logo.svg.png
+))
 
 Task 1: Web scraping to gain company insights
 
