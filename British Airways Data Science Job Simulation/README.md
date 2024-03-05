@@ -3,7 +3,7 @@ A repository containing all the assignments completed during my participation in
 ![British Airways](https://cdn.theforage.com/vinternships/companyassets/tMjbs76F526fF5v3G/L3MQ8f6cYSkfoukmz/1666886930204/British_Airways_Logo.svg.png)
 
 # Data Science
-![British Airways](https://cdn.theforage.com/vinternships/companyassets/tMjbs76F526fF5v3G/L3MQ8f6cYSkfoukmz/1667398015172/BA data science preview.png)
+![British Airways](https://cdn.theforage.com/vinternships/companyassets/tMjbs76F526fF5v3G/L3MQ8f6cYSkfoukmz/1667398015172/BA%20data%20science%20preview.png)
 
 Task 1: Web scraping to gain company insights
 
