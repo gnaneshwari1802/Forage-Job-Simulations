@@ -1,3 +1,5 @@
+https://cdn.theforage.com/vinternships/companyassets/tMjbs76F526fF5v3G/L3MQ8f6cYSkfoukmz/1666886930204/British_Airways_Logo.svg.png
+
 Task 1: Web scraping to gain company insights
 
 1
