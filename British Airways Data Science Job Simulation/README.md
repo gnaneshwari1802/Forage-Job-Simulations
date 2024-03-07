@@ -53,3 +53,7 @@ This resource is solely intended for use within the Forage virtual experience. P
 Prepare a dataset
 Train a machine learning model
 Evaluate and present your findings
+
+**Program link:** ![Forage](https://www.theforage.com/virtual-experience/NjynCWzGSaWXQCxSX/british-airways/data-science-yqoz/predicting-customer-buying-behaviour)
+
+**Completion Certificate link:** ![Certificate]()
